@@ -1,0 +1,14 @@
+{
+  "baseToken": "GtN5kqyQxTtTuzqyJpHcp1654XBperGFp8oXJaV8HhJs",
+  "quoteToken": "So11111111111111111111111111111111111111112",
+  "baseTokenAmountForPoolInit": "100000000000000000",
+  "quoteTokenAmountForPoolInit": "100000000",
+  "lotSize": 1,
+  "tickSize": 0.001,
+  "heliusRPCURL": "",
+  "txPriorityLevel": "HIGH",
+  "computeUnitsForMarketAccountCreation": 20000,
+  "computeUnitsForMarketInit": 20000,
+  "computeUnitsForPoolCreation": 250000,
+  "computeBudgetFee": 1000000
+}

@@ -1,0 +1,14 @@
+{
+  "mintAccount": "2kkP3e9HPNu574NpUwWMSDEDjjGYtQYJ4UhndRuMZBov",
+  "batchSize": 10,
+  "operations": [
+    {
+      "address": "6ooSDmUixTd4dmjxhmzMUetdw9o83NcyKy52ki3sAWwW",
+      "amount": 0.001
+    },
+    {
+      "address": "4PC2F4NpEp2WYjGkGWowZWGB8ZVTG5xtjEpDT2527TVx",
+      "amount": 0.001
+    }
+  ]
+}

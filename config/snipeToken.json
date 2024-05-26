@@ -1,0 +1,17 @@
+{
+  "tokenIn": "GtN5kqyQxTtTuzqyJpHcp1654XBperGFp8oXJaV8HhJs",
+  "tokenOut": "So11111111111111111111111111111111111111112",
+  "poolId": "CeL3R5LK44TY3xyCphRF9XVHjqWFdN34oCpTCAuKyGgy",
+  "computeUnitsForSwap": 100000,
+  "computeBudgetFee": 1000000,
+  "txSenders": [
+    {
+      "txSenderPrivateKey": "<Add your tx sender private key>",
+      "tokenAmountIn": "1000000000000000"
+    },
+    {
+      "txSenderPrivateKey": "<Add your tx sender private key>",
+      "tokenAmountIn": "1000000000000000"
+    }
+  ]
+}

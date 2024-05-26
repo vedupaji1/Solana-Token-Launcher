@@ -1,0 +1,9 @@
+{
+    "name": "LPEPE",
+    "symbol": "LPE",
+    "description": "Pepe LPE",
+    "imageURL": "",
+    "imageLocalPath": "../images/logo.png",
+    "decimals": 9,
+    "totalSupply": "10000000000000000000"
+}

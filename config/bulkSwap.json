@@ -1,0 +1,20 @@
+{
+    "tokenIn": "DptX4M3K3bNdu1hmHsCkRDKtq8Jv7tDjY7fHFTmNQiTu",
+    "tokenOut": "So11111111111111111111111111111111111111112",
+    "poolId": "6GjyaEESLFcrrVJq8CyndE4MJPcF1fcRdxs9DR65iqPs",
+    "heliusRPCURL": "",
+    "txPriorityLevel": "HIGH",
+    "computeUnitsForSwap": 100000,
+    "computeBudgetFee": 1000000,
+    "waitForTxConfirmations": false,
+    "txSenders": [
+        {
+            "txSenderPrivateKey": "<Add your tx sender private key>",
+            "tokenAmountIn": "1000000000000000"
+        },
+        {
+            "txSenderPrivateKey": "<Add your tx sender private key>",
+            "tokenAmountIn": "1000000000000000"
+        }
+    ]
+}
